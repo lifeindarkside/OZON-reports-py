@@ -1,6 +1,6 @@
 # OZON-reports-py
 Use python script to get information about comissions to every order (for ozon seller)
-method: https://api-seller.ozon.ru/v3/finance/transaction/list
+Method: https://api-seller.ozon.ru/v3/finance/transaction/list
 
 Information from API send to MSSQL server in 3 tables: Main, Services, Items
 
